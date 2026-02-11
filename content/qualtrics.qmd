@@ -1,0 +1,44 @@
+---
+title: "About ![](qualtrics_logo.png){width=25%}"
+format: html
+---
+
+
+
+
+
+Qualtrics is a cloud based Experience Management (XM) platform designed to create, distribute, and analyze surveys for a wide range of usages. It enables users to build highly customizable surveys, automate actions based on responses (such as skip logic), and visualize data through reporting tools and dashboards. While not all of its features are relevant to the goals of the NEFSC, the core feautres are highly beneficial to creating more automated and reproducible surveys, Some of these features include:
+
+- **Survey Creation**: Qualtrics has a user friendly interface with intuitive functionality, allowing new users at the SSB to create surveys without coding (exception of advanced aesthetics using `javascript` and `css`). It supports a variety of question types, including multiple choice, open text, and matrix questions.
+
+- **Distribution**: Surveys can be distributed through multiple channels including personalized QR codes for individual participants. This is particularly useful for our goal of reaching audiences that prefer to complete surveys online rather than on paper. Furthermore, it helps automate the data collection process by directly feeding responses into the Qualtrics database which can be transferred to NMFS databases for analysis and storage.
+
+- **Data Analysis**: Qualtrics has its own built in data visualization tools where users can create custom reports. While this may be helpful for researchers at NEFSC, we envision most of the in depth analysis will take place once the data has been transferred over to internal NOAA databases.
+
+
+
+## NEFSC and Qualtrics 
+
+Starting in 2026, the Social Sciences Branch (SSB) began to use the Qualtrics platform to build its 2027 Greater Atlantic Region Commercial Fishing Business Cost Survey. The shift towards Qualtrics was driven by the need for a more reproducible, flexible, and cost effective solution for building and maintaing its surveys over time. Qualtrics offers many features that allow users to build complex surveys with skip logic, modify aesthetics of the survey, and widely distribute surveys through QR codes and web links to individual participants. Not every functionality of Qualtrics is relevant to what the SSB needs, but the main feautres and flexibility have shown to be highly beneficial to our survey efforts. We anticipate the use of Qualtrics to continue for future survey years as long as the software continues to meet our needs.
+
+
+## Free vs Paid Tiers
+
+Qualtrics provides a free tier and a paid tier. We explored the possibility of relying solely on the free tier and compared its features to the paid tier. The free tier provides basic survey creation and distribution capabilities, but it has limitations on the number of responses, question types, and customization options. The paid tier offers much more control over the size and aesthetics of the survey. Because we wanted the digital copy to look as close to possible as the physical copy, we use the paid tier to access the customization features. 
+
+
+| Product Area | Features in Free Accounts | Restrictions in Free Accounts |
+|--------------|---------------------------|-------------------------------|
+| **Survey builder** | • Create, edit, copy or delete surveys<br>• 8 question types:<br>&nbsp;&nbsp;◦ Multiple choice<br>&nbsp;&nbsp;◦ Text entry<br>&nbsp;&nbsp;◦ Text / graphic<br>&nbsp;&nbsp;◦ Matrix table<br>&nbsp;&nbsp;◦ Slider<br>&nbsp;&nbsp;◦ Form field<br>&nbsp;&nbsp;◦ Rank order<br>&nbsp;&nbsp;◦ Side by side<br>• Choice randomization<br>• Piped text<br>• Use survey blocks<br>• Access blocks and questions saved to the library<br>• Survey flow editor<br>• Survey logic:<br>&nbsp;&nbsp;◦ Skip logic<br>&nbsp;&nbsp;◦ Display logic<br>&nbsp;&nbsp;◦ Branch logic<br>• Can collaborate on surveys with other users | • No advanced question types<br>• No autocomplete based on supplemental data<br>• No custom code (this also means many options in the rich content editor are unavailable):<br>&nbsp;&nbsp;◦ No HTML markup<br>&nbsp;&nbsp;◦ No custom Javascript<br>&nbsp;&nbsp;◦ No inserting images<br>&nbsp;&nbsp;◦ No iFrame support<br>&nbsp;&nbsp;◦ No redirect links in the survey (this includes both survey options and end of survey elements)<br>• No survey translations |
+| **Customization and branding** | • Limited Look & Feel:<br>&nbsp;&nbsp;◦ Theme (select from pre-built themes)<br>&nbsp;&nbsp;◦ Layout (simple, flat, modern, or classic)<br>&nbsp;&nbsp;◦ General (button text, progress bar, questions per page)<br>&nbsp;&nbsp;◦ Style (color and contrast, font and font size, spacing)<br>&nbsp;&nbsp;◦ Motion tabs (page transition, autofocus, auto-advance)<br>&nbsp;&nbsp;◦ Background (color and contrast, container) | • Restricted Look & Feel (including no custom code):<br>&nbsp;&nbsp;◦ General (no header/footer)<br>&nbsp;&nbsp;◦ Style (no custom CSS)<br>• No Logo<br>&nbsp;&nbsp;◦ Background (no background image)<br>• No branded or vanity URLs |
+| **Methodology** | • 50+ expert-built survey templates<br>• 1 sample project with example questions and pre-loaded results | • Only basic ExpertReview (methodology and question quality)<br>• No imported data projects<br>• No guided projects or programs, including COVID-19 XM Solutions<br>• No ExpertReview compliance (fraud detection, sensitive data policy) or response quality (bot detection, ballot box stuffing) |
+| **Survey distribution** | • Distributions:<br>&nbsp;&nbsp;◦ Anonymous link<br>&nbsp;&nbsp;◦ Social media<br>&nbsp;&nbsp;◦ QR codes | • No email<br>• No SMS<br>• No offline app<br>• Cannot purchase online samples from inside account<br>• No XM Directory |
+| **Response management** | • View, filter, and edit responses | • No quotas<br>• No screen-outs<br>• No response weighting |
+| **Reporting & analytics** | • Access to Data & Analysis tab:<br>&nbsp;&nbsp;◦ Real-time collected responses data table<br>&nbsp;&nbsp;◦ Real-time Results dashboard with editable data visualizations<br>&nbsp;&nbsp;◦ Reports that can be customized and shared<br>&nbsp;&nbsp;◦ Data exports (CSV, TSV, Excel, XML, SPSS and more) | • No basic or advanced analytics (Text iQ, Stats iQ, Crosstabs, etc.)<br>• No dashboards |
+| **Workflows** | • None | • No Workflows |
+| **Account administration** | • None | • No admin reports, tools, or brand settings<br>• No Home page |
+| **Extensions and integrations** | • None | • No API or third-party integrations |
+| **24/7 support** | • Qualtrics Support AI Assistant<br>• Self-serve articles on qualtrics.com/support including detailed step-by-step guides<br>• Self-serve tutorials and video lessons on XM Basecamp<br>• Access to other Qualtrics users and experts through Experience Community | • No email, chat or phone support<br>• No direct product or program guidance |
+
+
+: Free tier features and restrictions as of February 2026 ([original table](https://www.qualtrics.com/support/survey-platform/managing-your-account/trial-accounts/)).

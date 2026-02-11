@@ -1,0 +1,9 @@
+---
+title: "Qualtrics Survey Standard Operating Procdure"
+subtitle: "Greater Atlantic Region Commercial Fishing Business Cost Survey"
+page-layout: full
+---
+
+Welcome to the Qualtrics Survey Standard Operating Procedure (SOP) website. This site (built in Quarto) serves as a comprehensive guide on how the [2027 Greater Atlantic Region Commercial Fishing Business Cost Surveys](https://www.fisheries.noaa.gov/new-england-mid-atlantic/commercial-fishing/commercial-fishing-business-cost-survey) were made, distributed, and how to maintain them for future years. Furthermore, it provides an overview of why [Qualtrics](https://www.qualtrics.com/) was adopted and the use of its key features that were used to build the surveys. 
+
+The [Social Sciences Branch (SSB)](https://www.fisheries.noaa.gov/new-england-mid-atlantic/socioeconomics/socioeconomic-cultural-and-policy-research-northeast) at the [Northeast Fisheries Science Center (NEFSC)](https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center) in the [National Marine Fisheries Service (NMFS)](https://www.fisheries.noaa.gov/) has adopted the Qualtrics platform starting in 2026 to build the 2027 Greater Atlantic Region Commercial Fishing Business Cost Survey. Previous efforts involved contracting an external company such as ICF to build and host the survey. By using Qualtrics, NMFS staff and affiliates can build, distribute, and maintain the survey in house. This allows for greater flexibility, cost savings, and reproducibility for future survey efforts.

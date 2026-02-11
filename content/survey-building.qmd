@@ -1,0 +1,62 @@
+---
+title: "Building the Survey"
+format: html
+---
+
+
+## Approach
+
+10 Qualtrics surveys was built (one for each gear type) for the 2027 Greater Atlantic Region Commercial Fishing Business Cost Survey:
+
+1) Multigear
+2) Trawl
+3) Gillnet
+4) Longline
+5) Pot and trap
+6) Handgear
+7) Big business
+8) Small business
+9) Scallop dredge
+10) Seine
+
+
+Each survey was made using its corresponding physical hard copy as a template. The goal was to make the digital copy look as close as possible to the physical copy to ensure consistency across the two formats. There are  minor nuances in the formatting of the questions due to the software limitations of Qualtrics, but overall the surveys are nearly identical and the content is exactly the same. 
+
+Many questions across the surveys were shared. When possible, we used the "library" feature in Qualtrics to save questions and blocks of questions that were shared across surveys to avoid having to copy and paste content across surveys and minimize potential errors. This also allowed us to make changes to shared content across all surveys at once by editing the question or block in the library. Some surveys could be duplicated with minor adjustments if their content was near identical.
+
+## Question Types
+
+A total of X different question types were used across the surveys including:
+- Multiple choice (single andswer and multiple answer)
+- Text entry
+- Side by side
+
+Some questions in the physical copy were formatted in a way that. For example, some questions had multiple sub-questions that were all part of the same question but had different formatting like text entry and multiple choice. In these cases, we did our best to use custom code to replicate these questions to the best we could (see [HTML/CSS/Javascript](###HTML/CSS/Javascript)).
+
+## Aesthetics
+
+Much of the customization features of the surveys were only accessible throught the paid tier of Qualtrics. We used these features to make the digital copy look as close as possible to the physical copy. This included editing the colors, styles, and layout of the surveys, as well as inserting images and using HTML/CSS/Javascript to format text and other features in ways that were not possible with just the rich content editor.
+
+### Boxes
+The questions on the physical copies of the surveys were grouped into boxes based on their question type. Questions regarding similar topics were grouped together in grey boxes to visually separate them from other unrelated questions. We took the same approach in the Qualtrics surveys by using the "Box" feature to replicate the physical design. Furthermore, these boxes served as page breaks in the surveys to help with navigation and organization.
+
+### Images
+
+We placed images throughout the surveys including the **cover page** image and the **end of survey** image to replicate the hard copy version. We did this by downloading the hardcopy PDF of each survey and converting the pages into *JPG* files that were then inserted as a question into correct locations of the Qualtrics survey. 
+
+*NOTE: Qualtrics requires that you generaet a question when you want to insert and image. This is because images are considered a type of question in Qualtrics, so they must be inserted as a question even if they are not technically a question.*
+
+
+### HTML/CSS/Javascript
+
+Qualtrics gives you the ability to insert custom code into your surveys to modify the aesthetics and functionality beyond what is possible with the built in features. This included editing the `HTML`, `CSS`, and `Javascript` of the surveys allowed us to fine tune the aesthetics to the best we could.
+
+- **HTML**: HyperText Markup Language is the standard language for creating web pages and web applications. It is used to structure content on the web including text, images, links, and other elements. In Qualtrics, HTML can be used to format text, create tables, and insert images or other media into survey questions. It is the underlying skeleton of the survey.
+
+- **CSS**: Cascading Style Sheets is a stylesheet language used to describe the presentation and formatting of a document written in HTML. It is used to control the layout, colors, fonts, and other visual aspects of web pages. In Qualtrics, CSS can be used to customize the appearance of survey questions, change the layout of the survey, and modify other visual elements. It is the styling that is layerd on top of the HTML skeleton.
+
+- **Javascript**: Javascript is a language that is commonly used to create interactive effects within web browsers. It is used to add dynamic functionality to web pages, such as form validation and interactive features. In Qualtrics, Javascript can be used to create custom survey logic, validate user input, and add other interactive elements to the survey. We mostly used it to modify the behavior of certain elements in the survey to better replicate the physical copy.
+
+Custom coding the survey elements does require a more advanced understanding of web design and did take up considerable time. It is a trade off in how much time you are willing to spend and how exact you want the Qualtrics surveys to replicate the look of the physical copies. While Qualtrics does not provide any guidance on hot to write custom code for their surveys, there are some resources online that can help with this including their [Experience Community](https://community.qualtrics.com/). 
+
+For the sake fo replication, I linked all custom code in external files hosted on GitHub which can be used to refer to in future survey years. This makes it easier to edit and maintain the code over time.
