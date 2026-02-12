@@ -17,7 +17,7 @@ format: html
 7) Big business
 8) Small business
 9) Scallop dredge
-10) Seine
+10) Seine 
 
 
 Each survey was made using its corresponding physical hard copy as a template. The goal was to make the digital copy look as close as possible to the physical copy to ensure consistency across the two formats. There are  minor nuances in the formatting of the questions due to the software limitations of Qualtrics, but overall the surveys are nearly identical and the content is exactly the same. 

@@ -1,0 +1,34 @@
+---
+title: "Contact"
+format: html
+---
+
+For any questions regarding the digital Qualtrics survey or this website, please reach out to the following contacts:
+
+<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-top: 2rem;">
+
+<div style="border-radius: 15px; border: 3px solid #001743; background-color: #50aeb3ff; width: 350px; padding: 0.5rem; text-align: center;">
+<i class="bi bi-person-circle" style="font-size: 3rem; color: #001743;"></i>
+
+<p style="margin: 0.1rem 0 0.1rem 0; font-size: 1.1rem;"><strong>Raymond Hunter</strong></p>
+
+<p style="margin: 0 0 0.25rem 0; font-size: 0.9rem;">Data Analyst</p>
+
+<p style="margin: 0; font-size: 0.9rem;"><a href="mailto:raymond.hunter@noaa.gov" style="color: white; text-decoration: none;">raymond.hunter@noaa.gov</a></p>
+</div>
+
+<div style="border-radius: 15px; border: 3px solid #001743; background-color: #50aeb3ff; width: 350px; padding: 0.5rem; text-align: center;">
+<i class="bi bi-person-circle" style="font-size: 3rem; color: #001743;"></i>
+
+<p style="margin: 0.1rem 0 0.1rem 0; font-size: 1.1rem;"><strong>Samantha Werner</strong></p>
+
+<p style="margin: 0 0 0.25rem 0; font-size: 0.9rem;">Economist</p>
+
+<p style="margin: 0; font-size: 0.9rem;"><a href="mailto:samanthawerner@noaa.gov" style="color: white; text-decoration: none;">samanthawerner@noaa.gov</a></p>
+</div>
+
+</div>
+
+
+
+

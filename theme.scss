@@ -4,3 +4,36 @@
 
 $font-family: "Atkinson Hyperlegible", sans-serif;
 
+$white: #F1F2F3;
+$foam: #C2D9E3;
+$dark-blue: #001743;
+$blue: #0085CA;
+// Base document colors
+$body-bg: $white;
+$body-color: $dark-blue;
+$link-color: $blue;
+
+$light: $white;
+
+// Navigation element colors
+$footer-bg: $white;
+$navbar-bg: $foam;
+$sidebar-bg: $foam;
+
+// Code blocks
+$code-block-bg-alpha: -.8;
+
+// Bootstrap popovers
+$popover-bg: $white;
+
+// Bootstrap inputs
+$input-bg: $white;
+
+// Inline code
+$code-bg: $foam; // inline code background color
+$code-color: $blue; // inline code text color
+
+code {
+    border-radius: 6px;
+    /* Rounded corners */
+}

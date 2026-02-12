@@ -42,3 +42,10 @@ Qualtrics provides a free tier and a paid tier. We explored the possibility of r
 
 
 : Free tier features and restrictions as of February 2026 ([original table](https://www.qualtrics.com/support/survey-platform/managing-your-account/trial-accounts/)).
+
+
+## Resrources
+
+- [Qualtrics Support](https://www.qualtrics.com/support/)
+- [Experience Community](https://community.qualtrics.com/)
+- [Commercial Fishing Business Cost Survey](https://www.fisheries.noaa.gov/new-england-mid-atlantic/commercial-fishing/commercial-fishing-business-cost-survey)

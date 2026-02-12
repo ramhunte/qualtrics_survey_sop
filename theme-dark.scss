@@ -4,23 +4,38 @@
 
 $font-family: "Atkinson Hyperlegible", sans-serif;
 
+$grey: #323C46;
+$dark-grey: #242424;
+$white: #E9F3F6;
+$light-blue: #75AADB;
+$dark-blue: #001743;
 // Base document colors
-$body-bg: #181818;
-$body-color: white;
-$link-color: #75AADB;
+$body-bg: $grey;
+$body-color: $white;
+$link-color: $light-blue;
 
-$light: #525252;
+$light: $grey;
 
 // Navigation element colors
-$footer-bg: #181818;
-$navbar-bg: #303030;
-$sidebar-bg: #303030;
+$footer-bg: $dark-blue;
+$navbar-bg: $grey;
+$sidebar-bg: $grey;
 
 // Code blocks
 $code-block-bg-alpha: -.8;
 
 // Bootstrap popovers
-$popover-bg: #242424;
+$popover-bg: $dark-grey;
 
 // Bootstrap inputs
-$input-bg: #242424;
+$input-bg: $dark-grey;
+
+
+// Inline code
+$code-bg: $dark-blue; // inline code background color
+$code-color: $light-blue; // inline code text color
+
+code {
+    border-radius: 6px;
+    /* Rounded corners */
+}

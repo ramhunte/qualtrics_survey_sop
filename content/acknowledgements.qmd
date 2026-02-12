@@ -1,6 +1,0 @@
----
-title: "Acknowledgements"
-format: html
----
-
-## Test

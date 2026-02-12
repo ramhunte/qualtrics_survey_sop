@@ -16,16 +16,16 @@ website:
   sidebar:
     background: "#D9E3E4"
     logo: images/nmfs.png
-    favicon: images/favicon.ico
+    # favicon: images/favicon.ico
     pinned: true
     align: center
     tools: 
       - icon: globe
-        href: https://nmfs-opensci.github.io
-        text: "NMFS Open Science"
+        href: https://www.fisheries.noaa.gov/
+        text: "National Marine Fisheries Service"
       - icon: github
         href: https://github.com/nmfs-opensci
-        text: "NMFS OpenSci"
+        text: "GitHub"
 
     style: "docked"
     search: true
@@ -40,8 +40,8 @@ website:
           - content/survey-building.qmd
           - content/survey-distributing.qmd
           - content/survey-maintaining.qmd
-      - href: content/acknowledgements.qmd
-        text: Acknowledgements
+      - href: content/contact.qmd
+        text: "Contact"
 
 
 format:

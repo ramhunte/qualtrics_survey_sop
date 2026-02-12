@@ -2,4 +2,86 @@
 title: "About the Survey"
 format: html
 ---
+ 
+
+In March 2023, our Social Sciences Branch launched a voluntary survey to collect information about calendar year 2022 commercial fishing expenses. This survey was sent to active, federally-permitted commercial fishing vessel owners in the Northeast’s Greater Atlantic region, which extends from Maine to North Carolina. The survey closed on July 31, 2023.
+
+Currently, this survey is the only way NOAA Fisheries collects this kind of information in our region. We will use the data collected to achieve the following goals:
+
+- Develop economic analyses that inform commercial fishing regulation and policies to better meet the requirements of the Magnuson-Stevens Act and National Standard 8
+- Better understand the effects of regulations on commercial fishing businesses and communities
+- Track trends in business costs over time
+- Evaluate the economic performance of fishing fleets
+- Better understand profitability of fishing fleets
+- Expand the new cost survey data visualization tool, which vessel owners can use for business planning
+
+
+## Survey Changes & Improvements
+
+Prior to 2023, this cost survey was last conducted in 2016. There have been many changes associated with resource availability and management policies since 2016. These changes affected the economic performance of fishing businesses. To help quantify those impacts on fishing businesses and communities and increase industry participation, we made a number of changes and improvements to our 2023 survey:
+
+- Redesigned the survey to better align with how vessel owners run their businesses by generating gear-based surveys
+- Worked with industry members to reframe survey questions and provide relatable examples
+- Decreased and simplified survey questions
+- Added an option for participants to take the survey through a virtual or phone interview
+- Increased the number of outreach presentations to raise awareness about the survey
+- Increased our connections with industry to encourage participation and provide feedback on the survey
+- Developed the cost survey data visualization tool that industry members can use to query costs by gear group and view previous and future survey results more easily
+
+
+## Who Could Participate
+
+Any owner of a recently active (active in either 2021 or 2022) federally permitted commercial fishing vessel in our region that used the following gear types:
+
+- Pot/traps
+- Trawls
+- Gillnets
+- Handgear
+- Hydraulic dredge
+- Scallop dredge
+- Longline
+- Seine
+- Multiple gears
+- If an individual owned multiple commercial vessels, they could complete a single survey for only one of their vessels.
+
+## What Information Was Collected
+
+We collected commercial fishing cost information from the 2022 calendar year. This included vessel, at-sea operation, business overhead, and crew expenses. We also collected information on quota leasing costs and earnings, and the value of the vessel and vessel permits. Examples of specific expenses:
+
+- New/upgraded fishing gear
+- New/upgraded safety equipment
+- Fuel
+- Bait
+- Ice
+- Vessel insurance premiums
+- Permit(s)
+- Mooring fees
+- Workshop or storage
+- Association fees
+- Business vehicle use
+- Leasing quota and days at sea (if applicable)
+
+## Were Responses Confidential
+
+Yes. Participation and individual responses to this survey were confidential. All data appearing on our data visualization tool website and in reports will be presented in a manner that protects confidentiality. Individual data can only be accessed by our staff and affiliates with signed non-disclosure agreements.
+
+## What Was the Benefit of Taking the Survey
+
+Cost information provided by survey participants allows us to track trends in costs over time and understand the economic performance of fishing fleets. This helps inform management decisions. Aggregated data summaries found on our cost data visualization tool can also be used by fishermen for business planning purposes.
+
+## Project Leads
+
+- Greg Ardini, Economist
+- Samantha Werner, Economist
+
+## Project Team
+
+- Elizabeth Conley, Research Technician
+- Christopher Doyle, Heather Driscoll, Nicholas Book, ICF Macro Inc., survey firm staff
+- Scott Steinback, Economist
+- Tammy Murphy, Branch Chief, Social Sciences Branch
+
+## Survey Results & Data Summaries
+
+To view summaries of previous cost survey data, please visit our [data visualization tool](https://apps-nefsc.fisheries.noaa.gov/cost-data/). We have also published a [full report](https://repository.library.noaa.gov/view/noaa/34436) on methods and results for those surveys. We will add 2022 data to the tool once the data have been processed.
 
