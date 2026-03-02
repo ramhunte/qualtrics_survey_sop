@@ -6,21 +6,21 @@ format: html
 
 ## Approach
 
-10 Qualtrics surveys was built (one for each gear type) for the 2027 Greater Atlantic Region Commercial Fishing Business Cost Survey:
+10 Qualtrics surveys was built (one for each gear type) for the 2026 Greater Atlantic Region Commercial Fishing Business Cost Survey:
 
-1) Multigear
-2) Trawl
-3) Gillnet
-4) Longline
-5) Pot and trap
-6) Handgear
-7) Big business
-8) Small business
-9) Scallop dredge
-10) Seine 
+**1)** Multigear
+**2)** Trawl
+**3)** Gillnet
+**4)** Longline
+**5)** Pot and trap
+**6)** Handgear
+**7)** Big business
+**8)** Small business
+**9)** Scallop dredge
+**10)** Seine 
 
 
-Each survey was made using its corresponding physical hard copy as a template. The goal was to make the digital copy look as close as possible to the physical copy to ensure consistency across the two formats. There are  minor nuances in the formatting of the questions due to the software limitations of Qualtrics, but overall the surveys are nearly identical and the content is exactly the same. 
+Each survey was made using its corresponding physical hard copy *and* the ICF 2022 digital survey as templates. The goal was to make the digital copy look as close as possible to the physical copy to ensure consistency across the two formats. There are some aesthetic and logistical limtiations to making the digital copy look identical to the physical copy, but we used a variety of features in Qualtrics to make the digital copy look as close as possible to the physical copy. The ICF 2022 digital survey implemented some work around features that we drew from to build the 2026 digital survey.
 
 Many questions across the surveys were shared. When possible, we used the "library" feature in Qualtrics to save questions and blocks of questions that were shared across surveys to avoid having to copy and paste content across surveys and minimize potential errors. This also allowed us to make changes to shared content across all surveys at once by editing the question or block in the library. Some surveys could be duplicated with minor adjustments if their content was near identical.
 
@@ -36,9 +36,6 @@ Some questions in the physical copy were formatted in a way that. For example, s
 ## Aesthetics
 
 Much of the customization features of the surveys were only accessible throught the paid tier of Qualtrics. We used these features to make the digital copy look as close as possible to the physical copy. This included editing the colors, styles, and layout of the surveys, as well as inserting images and using HTML/CSS/Javascript to format text and other features in ways that were not possible with just the rich content editor.
-
-### Boxes
-The questions on the physical copies of the surveys were grouped into boxes based on their question type. Questions regarding similar topics were grouped together in grey boxes to visually separate them from other unrelated questions. We took the same approach in the Qualtrics surveys by using the "Box" feature to replicate the physical design. Furthermore, these boxes served as page breaks in the surveys to help with navigation and organization.
 
 ### Images
 

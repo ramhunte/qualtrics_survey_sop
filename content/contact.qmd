@@ -5,29 +5,41 @@ format: html
 
 For any questions regarding the digital Qualtrics survey or this website, please reach out to the following contacts:
 
-<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap; margin-top: 2rem;">
 
-<div style="border-radius: 15px; border: 3px solid #001743; background-color: #50aeb3ff; width: 350px; padding: 0.5rem; text-align: center;">
-<i class="bi bi-person-circle" style="font-size: 3rem; color: #001743;"></i>
+<div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: nowrap; margin-top: 2rem;">
 
-<p style="margin: 0.1rem 0 0.1rem 0; font-size: 1.1rem;"><strong>Raymond Hunter</strong></p>
+<div style="border-radius: 15px; border: 3px solid #50aeb3ff; background-color: #001743; flex: 1 1 0; min-width: 0; max-width: 350px; padding: 0.5rem; text-align: center;">
+<i class="bi bi-person-circle" style="font-size: 3rem; color: #50aeb3ff;"></i>
 
-<p style="margin: 0 0 0.25rem 0; font-size: 0.9rem;">Data Analyst</p>
+<p style="margin: 0.1rem 0 0.1rem 0; font-size: 1.1rem; color: white;"><strong>Raymond Hunter</strong></p>
 
-<p style="margin: 0; font-size: 0.9rem;"><a href="mailto:raymond.hunter@noaa.gov" style="color: white; text-decoration: none;">raymond.hunter@noaa.gov</a></p>
+<p style="margin: 0 0 0.25rem 0; font-size: 0.9rem; color: white;">Data Analyst</p>
+
+<p style="margin: 0; font-size: 0.9rem;"><a href="mailto:raymond.hunter@noaa.gov" style="color: #50aeb3ff; text-decoration: none;">raymond.hunter@noaa.gov</a></p>
 </div>
 
-<div style="border-radius: 15px; border: 3px solid #001743; background-color: #50aeb3ff; width: 350px; padding: 0.5rem; text-align: center;">
-<i class="bi bi-person-circle" style="font-size: 3rem; color: #001743;"></i>
+<div style="border-radius: 15px; border: 3px solid #50aeb3ff; background-color: #001743; flex: 1 1 0; min-width: 0; max-width: 350px; padding: 0.5rem; text-align: center;">
+<i class="bi bi-person-circle" style="font-size: 3rem; color: #50aeb3ff;"></i>
 
-<p style="margin: 0.1rem 0 0.1rem 0; font-size: 1.1rem;"><strong>Samantha Werner</strong></p>
+<p style="margin: 0.1rem 0 0.1rem 0; font-size: 1.1rem; color: white;"><strong>Samantha Werner</strong></p>
 
-<p style="margin: 0 0 0.25rem 0; font-size: 0.9rem;">Economist</p>
+<p style="margin: 0 0 0.25rem 0; font-size: 0.9rem; color: white;">Economist</p>
 
-<p style="margin: 0; font-size: 0.9rem;"><a href="mailto:samanthawerner@noaa.gov" style="color: white; text-decoration: none;">samanthawerner@noaa.gov</a></p>
+<p style="margin: 0; font-size: 0.9rem;"><a href="mailto:samanthawerner@noaa.gov" style="color: #50aeb3ff; text-decoration: none;">samanthawerner@noaa.gov</a></p>
+</div>
+
+<div style="border-radius: 15px; border: 3px solid #50aeb3ff; background-color: #001743; flex: 1 1 0; min-width: 0; max-width: 350px; padding: 0.5rem; text-align: center;">
+<i class="bi bi-person-circle" style="font-size: 3rem; color: #50aeb3ff;"></i>
+
+<p style="margin: 0.1rem 0 0.1rem 0; font-size: 1.1rem; color: white;"><strong>Elizabeth Conley</strong></p>
+
+<p style="margin: 0 0 0.25rem 0; font-size: 0.9rem; color: white;">Social Scientist</p>
+
+<p style="margin: 0; font-size: 0.9rem;"><a href="mailto:elizabeth.conley@noaa.gov" style="color: #50aeb3ff; text-decoration: none;">elizabeth.conley@noaa.gov</a></p>
 </div>
 
 </div>
+
 
 
 

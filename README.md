@@ -1,6 +1,6 @@
-# NEFSC SSB Qualtrics Survey SOP website 
+# NEFSC SSB Qualtrics Survey Guide website 
 
-Welcome! This repository holds the code used to make the Qualtrics Survey SOP website. It covers an introduction to qualtrics, why we chose to adopt it for making the 2027 Greater Atlantic Region Commercial Fishing Business Cost Survey, and how we designed the survey. This website should be upated by any NOAA staff or affiliates that continue to edit the survey or make changes in the future to ensure it remains up to date.
+Welcome! This repository holds the code used to make the Qualtrics Survey Guide website. It covers an introduction to qualtrics, why we chose to adopt it for making the 2026 Greater Atlantic Region Commercial Fishing Business Cost Survey, and how we designed the survey. This website should be upated by any NOAA staff or affiliates that continue to edit the survey or make changes in the future to ensure it remains up to date.
 
 
 ## Contact 
@@ -10,6 +10,7 @@ The original Qualtrics survey and this website were made by NOAA Affiliate Raymo
 **Emails**
 
 [raymond.hunter@noaa.gov](mailto:raymond.hunter@noaa.gov)
+
 [samantha.werner@noaa.gov](mailto:samantha.werner@noaa.gov)
 
 
@@ -27,3 +28,7 @@ This repository is a scientific product and is not official communication of the
 This content was created by U.S. Government employees as part of their official duties. This content is not subject to copyright in the United States (17 U.S.C. §105) and is in the public domain within the United States of America. Additionally, copyright is waived worldwide through the CC0 1.0 Universal public domain dedication.
 
 <hr>
+
+<img src="images/nmfs.png" alt="NOAA Fisheries Logo" width="200" style="height: 75px !important;"/>
+
+[U.S. Department of Commerce](https://www.commerce.gov/) \| [National Oceanographic and Atmospheric Administration](https://www.noaa.gov) \| [NOAA Fisheries](https://www.fisheries.noaa.gov/)
