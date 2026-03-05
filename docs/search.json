@@ -38,5 +38,159 @@
     "crumbs": [
       "About Qualtrics"
     ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Qualtrics Survey Guide",
+    "section": "",
+    "text": "Welcome to the Qualtrics Survey Guide website. This site (built in Quarto) serves as a comprehensive guide on how the 2026 Greater Atlantic Region Commercial Fishing Business Cost Surveys were made, distributed, and how to maintain them for future years. Furthermore, it provides an overview of why Qualtrics was adopted and the use of its key features that were used to build the surveys.\nThe Social Sciences Branch (SSB) at the Northeast Fisheries Science Center (NEFSC) in the National Marine Fisheries Service (NMFS) has adopted the Qualtrics platform starting in 2026 to build the 2026 Greater Atlantic Region Commercial Fishing Business Cost Survey. Previous efforts involved contracting an external company such as ICF to build and host the survey. By using Qualtrics, NMFS staff and affiliates can build, distribute, and maintain the survey in house. This allows for greater flexibility, cost savings, and reproducibility for future survey efforts.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "content/survey.html",
+    "href": "content/survey.html",
+    "title": "About the Survey",
+    "section": "",
+    "text": "In March 2023, our Social Sciences Branch launched a voluntary survey to collect information about calendar year 2022 commercial fishing expenses. This survey was sent to active, federally-permitted commercial fishing vessel owners in the Northeast’s Greater Atlantic region, which extends from Maine to North Carolina. The survey closed on July 31, 2023.\nCurrently, this survey is the only way NOAA Fisheries collects this kind of information in our region. We will use the data collected to achieve the following goals:",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#survey-changes-improvements",
+    "href": "content/survey.html#survey-changes-improvements",
+    "title": "About the Survey",
+    "section": "Survey Changes & Improvements",
+    "text": "Survey Changes & Improvements\nPrior to 2023, this cost survey was last conducted in 2016. There have been many changes associated with resource availability and management policies since 2016. These changes affected the economic performance of fishing businesses. To help quantify those impacts on fishing businesses and communities and increase industry participation, we made a number of changes and improvements to our 2023 survey:\n\nRedesigned the survey to better align with how vessel owners run their businesses by generating gear-based surveys\nWorked with industry members to reframe survey questions and provide relatable examples\nDecreased and simplified survey questions\nAdded an option for participants to take the survey through a virtual or phone interview\nIncreased the number of outreach presentations to raise awareness about the survey\nIncreased our connections with industry to encourage participation and provide feedback on the survey\nDeveloped the cost survey data visualization tool that industry members can use to query costs by gear group and view previous and future survey results more easily",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#who-could-participate",
+    "href": "content/survey.html#who-could-participate",
+    "title": "About the Survey",
+    "section": "Who Could Participate",
+    "text": "Who Could Participate\nAny owner of a recently active (active in either 2021 or 2022) federally permitted commercial fishing vessel in our region that used the following gear types:\n\nPot/traps\nTrawls\nGillnets\nHandgear\nHydraulic dredge\nScallop dredge\nLongline\nSeine\nMultiple gears\nIf an individual owned multiple commercial vessels, they could complete a single survey for only one of their vessels.",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#what-information-was-collected",
+    "href": "content/survey.html#what-information-was-collected",
+    "title": "About the Survey",
+    "section": "What Information Was Collected",
+    "text": "What Information Was Collected\nWe collected commercial fishing cost information from the 2022 calendar year. This included vessel, at-sea operation, business overhead, and crew expenses. We also collected information on quota leasing costs and earnings, and the value of the vessel and vessel permits. Examples of specific expenses:\n\nNew/upgraded fishing gear\nNew/upgraded safety equipment\nFuel\nBait\nIce\nVessel insurance premiums\nPermit(s)\nMooring fees\nWorkshop or storage\nAssociation fees\nBusiness vehicle use\nLeasing quota and days at sea (if applicable)",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#were-responses-confidential",
+    "href": "content/survey.html#were-responses-confidential",
+    "title": "About the Survey",
+    "section": "Were Responses Confidential",
+    "text": "Were Responses Confidential\nYes. Participation and individual responses to this survey were confidential. All data appearing on our data visualization tool website and in reports will be presented in a manner that protects confidentiality. Individual data can only be accessed by our staff and affiliates with signed non-disclosure agreements.",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#what-was-the-benefit-of-taking-the-survey",
+    "href": "content/survey.html#what-was-the-benefit-of-taking-the-survey",
+    "title": "About the Survey",
+    "section": "What Was the Benefit of Taking the Survey",
+    "text": "What Was the Benefit of Taking the Survey\nCost information provided by survey participants allows us to track trends in costs over time and understand the economic performance of fishing fleets. This helps inform management decisions. Aggregated data summaries found on our cost data visualization tool can also be used by fishermen for business planning purposes.",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#project-leads",
+    "href": "content/survey.html#project-leads",
+    "title": "About the Survey",
+    "section": "Project Leads",
+    "text": "Project Leads\n\nGreg Ardini, Economist\nSamantha Werner, Economist",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#project-team",
+    "href": "content/survey.html#project-team",
+    "title": "About the Survey",
+    "section": "Project Team",
+    "text": "Project Team\n\nElizabeth Conley, Research Technician\nChristopher Doyle, Heather Driscoll, Nicholas Book, ICF Macro Inc., survey firm staff\nScott Steinback, Economist\nTammy Murphy, Branch Chief, Social Sciences Branch",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/survey.html#survey-results-data-summaries",
+    "href": "content/survey.html#survey-results-data-summaries",
+    "title": "About the Survey",
+    "section": "Survey Results & Data Summaries",
+    "text": "Survey Results & Data Summaries\nTo view summaries of previous cost survey data, please visit our data visualization tool. We have also published a full report on methods and results for those surveys. We will add 2022 data to the tool once the data have been processed.",
+    "crumbs": [
+      "Survey Overview"
+    ]
+  },
+  {
+    "objectID": "content/contact.html",
+    "href": "content/contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "For any questions regarding the digital Qualtrics survey or this website, please reach out to the following contacts:\n\n\n\n\nRaymond Hunter\n\n\nData Analyst\n\n\nraymond.hunter@noaa.gov\n\n\n\n\n\nSamantha Werner\n\n\nEconomist\n\n\nsamanthawerner@noaa.gov\n\n\n\n\n\nElizabeth Conley\n\n\nSocial Scientist\n\n\nelizabeth.conley@noaa.gov",
+    "crumbs": [
+      "Contact"
+    ]
+  },
+  {
+    "objectID": "content/survey-building.html",
+    "href": "content/survey-building.html",
+    "title": "Building the Survey",
+    "section": "",
+    "text": "10 Qualtrics surveys was built (one for each gear type) for the 2026 Greater Atlantic Region Commercial Fishing Business Cost Survey:\n1) Multigear 2) Trawl 3) Gillnet 4) Longline 5) Pot and trap 6) Handgear 7) Big business 8) Small business 9) Scallop dredge 10) Seine\nEach survey was made using its corresponding physical hard copy and the ICF 2022 digital survey as templates. The goal was to make the digital copy look as close as possible to the physical copy to ensure consistency across the two formats. There are some aesthetic and logistical limtiations to making the digital copy look identical to the physical copy, but we used a variety of features in Qualtrics to make the digital copy look as close as possible to the physical copy. The ICF 2022 digital survey implemented some work around features that we drew from to build the 2026 digital survey.\nMany questions across the surveys were shared. When possible, we used the “library” feature in Qualtrics to save questions and blocks of questions that were shared across surveys to avoid having to copy and paste content across surveys and minimize potential errors. This also allowed us to make changes to shared content across all surveys at once by editing the question or block in the library. Some surveys could be duplicated with minor adjustments if their content was near identical.",
+    "crumbs": [
+      "Survey Overview",
+      "Building the Survey"
+    ]
+  },
+  {
+    "objectID": "content/survey-building.html#approach",
+    "href": "content/survey-building.html#approach",
+    "title": "Building the Survey",
+    "section": "",
+    "text": "10 Qualtrics surveys was built (one for each gear type) for the 2026 Greater Atlantic Region Commercial Fishing Business Cost Survey:\n1) Multigear 2) Trawl 3) Gillnet 4) Longline 5) Pot and trap 6) Handgear 7) Big business 8) Small business 9) Scallop dredge 10) Seine\nEach survey was made using its corresponding physical hard copy and the ICF 2022 digital survey as templates. The goal was to make the digital copy look as close as possible to the physical copy to ensure consistency across the two formats. There are some aesthetic and logistical limtiations to making the digital copy look identical to the physical copy, but we used a variety of features in Qualtrics to make the digital copy look as close as possible to the physical copy. The ICF 2022 digital survey implemented some work around features that we drew from to build the 2026 digital survey.\nMany questions across the surveys were shared. When possible, we used the “library” feature in Qualtrics to save questions and blocks of questions that were shared across surveys to avoid having to copy and paste content across surveys and minimize potential errors. This also allowed us to make changes to shared content across all surveys at once by editing the question or block in the library. Some surveys could be duplicated with minor adjustments if their content was near identical.",
+    "crumbs": [
+      "Survey Overview",
+      "Building the Survey"
+    ]
+  },
+  {
+    "objectID": "content/survey-building.html#question-types",
+    "href": "content/survey-building.html#question-types",
+    "title": "Building the Survey",
+    "section": "Question Types",
+    "text": "Question Types\nA total of X different question types were used across the surveys including: - Multiple choice (single andswer and multiple answer) - Text entry - Side by side\nSome questions in the physical copy were formatted in a way that. For example, some questions had multiple sub-questions that were all part of the same question but had different formatting like text entry and multiple choice. In these cases, we did our best to use custom code to replicate these questions to the best we could (see HTML/CSS/Javascript).",
+    "crumbs": [
+      "Survey Overview",
+      "Building the Survey"
+    ]
+  },
+  {
+    "objectID": "content/survey-building.html#aesthetics",
+    "href": "content/survey-building.html#aesthetics",
+    "title": "Building the Survey",
+    "section": "Aesthetics",
+    "text": "Aesthetics\nMuch of the customization features of the surveys were only accessible throught the paid tier of Qualtrics. We used these features to make the digital copy look as close as possible to the physical copy. This included editing the colors, styles, and layout of the surveys, as well as inserting images and using HTML/CSS/Javascript to format text and other features in ways that were not possible with just the rich content editor.\n\nImages\nWe placed images throughout the surveys including the cover page image and the end of survey image to replicate the hard copy version. We did this by downloading the hardcopy PDF of each survey and converting the pages into JPG files that were then inserted as a question into correct locations of the Qualtrics survey.\nNOTE: Qualtrics requires that you generaet a question when you want to insert and image. This is because images are considered a type of question in Qualtrics, so they must be inserted as a question even if they are not technically a question.\n\n\nHTML/CSS/Javascript\nQualtrics gives you the ability to insert custom code into your surveys to modify the aesthetics and functionality beyond what is possible with the built in features. This included editing the HTML, CSS, and Javascript of the surveys allowed us to fine tune the aesthetics to the best we could.\n\nHTML: HyperText Markup Language is the standard language for creating web pages and web applications. It is used to structure content on the web including text, images, links, and other elements. In Qualtrics, HTML can be used to format text, create tables, and insert images or other media into survey questions. It is the underlying skeleton of the survey.\nCSS: Cascading Style Sheets is a stylesheet language used to describe the presentation and formatting of a document written in HTML. It is used to control the layout, colors, fonts, and other visual aspects of web pages. In Qualtrics, CSS can be used to customize the appearance of survey questions, change the layout of the survey, and modify other visual elements. It is the styling that is layerd on top of the HTML skeleton.\nJavascript: Javascript is a language that is commonly used to create interactive effects within web browsers. It is used to add dynamic functionality to web pages, such as form validation and interactive features. In Qualtrics, Javascript can be used to create custom survey logic, validate user input, and add other interactive elements to the survey. We mostly used it to modify the behavior of certain elements in the survey to better replicate the physical copy.\n\nCustom coding the survey elements does require a more advanced understanding of web design and did take up considerable time. It is a trade off in how much time you are willing to spend and how exact you want the Qualtrics surveys to replicate the look of the physical copies. While Qualtrics does not provide any guidance on hot to write custom code for their surveys, there are some resources online that can help with this including their Experience Community.\nFor the sake fo replication, I linked all custom code in external files hosted on GitHub which can be used to refer to in future survey years. This makes it easier to edit and maintain the code over time.",
+    "crumbs": [
+      "Survey Overview",
+      "Building the Survey"
+    ]
   }
 ]

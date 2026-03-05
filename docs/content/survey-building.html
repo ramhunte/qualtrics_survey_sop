@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Qualtrics Survey Guide – NOAA quarto simple</title>
+<title>Building the Survey – NOAA quarto simple</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,29 +23,30 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href="./content/qualtrics.html" rel="next">
-<link href="./images/favicon.ico" rel="icon">
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-0e49d6dadf332df32e2c37dc30aeb7f8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-9bb2064807ccd7cc7b3bfe33cccba6c3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-0e49d6dadf332df32e2c37dc30aeb7f8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="../content/survey-distributing.html" rel="next">
+<link href="../content/survey.html" rel="prev">
+<link href="../images/favicon.ico" rel="icon">
+<script src="../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../site_libs/quarto-html/axe/axe-check.js" type="module"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-dark-4d9afe2b8d18ee9fa5d0d57b5ed4214d.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-ed96de9b727972fe78a7b5d16c58bf87.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-0e49d6dadf332df32e2c37dc30aeb7f8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-dark-9bb2064807ccd7cc7b3bfe33cccba6c3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="../site_libs/bootstrap/bootstrap-0e49d6dadf332df32e2c37dc30aeb7f8.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -248,7 +249,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./index.html">Introduction</a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/survey.html">Survey Overview</a></li><li class="breadcrumb-item"><a href="../content/survey-building.html">Building the Survey</a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -258,13 +259,13 @@ ul.task-list li input[type="checkbox"] {
   </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal quarto-sidebar-collapse-item sidebar-navigation docked overflow-auto">
     <div class="pt-lg-2 mt-2 text-center sidebar-header">
-      <a href="./index.html" class="sidebar-logo-link">
-      <img src="./images/nmfs.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
-      <img src="./images/nmfs.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
+      <a href="../index.html" class="sidebar-logo-link">
+      <img src="../images/nmfs.png" alt="" class="sidebar-logo light-content py-0 d-lg-inline d-none">
+      <img src="../images/nmfs.png" alt="" class="sidebar-logo dark-content py-0 d-lg-inline d-none">
       </a>
       <div class="sidebar-tools-main tools-wide">
     <a href="https://www.fisheries.noaa.gov/" title="National Marine Fisheries Service" class="quarto-navigation-tool px-1" aria-label="National Marine Fisheries Service"><i class="bi bi-globe"></i></a>
@@ -281,19 +282,19 @@ ul.task-list li input[type="checkbox"] {
     <ul class="list-unstyled mt-1">
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./index.html" class="sidebar-item-text sidebar-link active">
+  <a href="../index.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/qualtrics.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/qualtrics.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">About Qualtrics</span></a>
   </div>
 </li>
         <li class="sidebar-item sidebar-item-section">
       <div class="sidebar-item-container"> 
-            <a href="./content/survey.html" class="sidebar-item-text sidebar-link">
+            <a href="../content/survey.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Survey Overview</span></a>
           <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
@@ -302,19 +303,19 @@ ul.task-list li input[type="checkbox"] {
       <ul id="quarto-sidebar-section-1" class="collapse list-unstyled sidebar-section depth1 show">  
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/survey-building.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/survey-building.html" class="sidebar-item-text sidebar-link active">
  <span class="menu-text">Building the Survey</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/survey-distributing.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/survey-distributing.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Distributing the Survey</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/survey-maintaining.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/survey-maintaining.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Maintaning the Survey</span></a>
   </div>
 </li>
@@ -322,7 +323,7 @@ ul.task-list li input[type="checkbox"] {
   </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./content/contact.html" class="sidebar-item-text sidebar-link">
+  <a href="../content/contact.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Contact</span></a>
   </div>
 </li>
@@ -331,22 +332,33 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#approach" id="toc-approach" class="nav-link active" data-scroll-target="#approach">Approach</a></li>
+  <li><a href="#question-types" id="toc-question-types" class="nav-link" data-scroll-target="#question-types">Question Types</a></li>
+  <li><a href="#aesthetics" id="toc-aesthetics" class="nav-link" data-scroll-target="#aesthetics">Aesthetics</a>
+  <ul class="collapse">
+  <li><a href="#images" id="toc-images" class="nav-link" data-scroll-target="#images">Images</a></li>
+  <li><a href="#htmlcssjavascript" id="toc-htmlcssjavascript" class="nav-link" data-scroll-target="#htmlcssjavascript">HTML/CSS/Javascript</a></li>
+  </ul></li>
+  </ul>
+<div class="toc-actions"><ul><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/edit/main/content/survey-building.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/blob/main/content/survey-building.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
-<main class="content column-page-right" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../content/survey.html">Survey Overview</a></li><li class="breadcrumb-item"><a href="../content/survey-building.html">Building the Survey</a></li></ol></nav>
 <div class="quarto-title">
-<h1 class="title">Qualtrics Survey Guide</h1>
-<p class="subtitle lead">Greater Atlantic Region Commercial Fishing Business Cost Survey</p>
+<h1 class="title">Building the Survey</h1>
 </div>
 
 
 
-<div class="quarto-title-meta column-page-right">
+<div class="quarto-title-meta">
 
     
   
@@ -358,10 +370,40 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Welcome to the Qualtrics Survey Guide website. This site (built in Quarto) serves as a comprehensive guide on how the <a href="https://www.fisheries.noaa.gov/new-england-mid-atlantic/commercial-fishing/commercial-fishing-business-cost-survey">2026 Greater Atlantic Region Commercial Fishing Business Cost Surveys</a> were made, distributed, and how to maintain them for future years. Furthermore, it provides an overview of why <a href="https://www.qualtrics.com/">Qualtrics</a> was adopted and the use of its key features that were used to build the surveys.</p>
-<p>The <a href="https://www.fisheries.noaa.gov/new-england-mid-atlantic/socioeconomics/socioeconomic-cultural-and-policy-research-northeast">Social Sciences Branch (SSB)</a> at the <a href="https://www.fisheries.noaa.gov/about/northeast-fisheries-science-center">Northeast Fisheries Science Center (NEFSC)</a> in the <a href="https://www.fisheries.noaa.gov/">National Marine Fisheries Service (NMFS)</a> has adopted the Qualtrics platform starting in 2026 to build the 2026 Greater Atlantic Region Commercial Fishing Business Cost Survey. Previous efforts involved contracting an external company such as ICF to build and host the survey. By using Qualtrics, NMFS staff and affiliates can build, distribute, and maintain the survey in house. This allows for greater flexibility, cost savings, and reproducibility for future survey efforts.</p>
+<section id="approach" class="level2">
+<h2 class="anchored" data-anchor-id="approach">Approach</h2>
+<p>10 Qualtrics surveys was built (one for each gear type) for the 2026 Greater Atlantic Region Commercial Fishing Business Cost Survey:</p>
+<p><strong>1)</strong> Multigear <strong>2)</strong> Trawl <strong>3)</strong> Gillnet <strong>4)</strong> Longline <strong>5)</strong> Pot and trap <strong>6)</strong> Handgear <strong>7)</strong> Big business <strong>8)</strong> Small business <strong>9)</strong> Scallop dredge <strong>10)</strong> Seine</p>
+<p>Each survey was made using its corresponding physical hard copy <em>and</em> the ICF 2022 digital survey as templates. The goal was to make the digital copy look as close as possible to the physical copy to ensure consistency across the two formats. There are some aesthetic and logistical limtiations to making the digital copy look identical to the physical copy, but we used a variety of features in Qualtrics to make the digital copy look as close as possible to the physical copy. The ICF 2022 digital survey implemented some work around features that we drew from to build the 2026 digital survey.</p>
+<p>Many questions across the surveys were shared. When possible, we used the “library” feature in Qualtrics to save questions and blocks of questions that were shared across surveys to avoid having to copy and paste content across surveys and minimize potential errors. This also allowed us to make changes to shared content across all surveys at once by editing the question or block in the library. Some surveys could be duplicated with minor adjustments if their content was near identical.</p>
+</section>
+<section id="question-types" class="level2">
+<h2 class="anchored" data-anchor-id="question-types">Question Types</h2>
+<p>A total of X different question types were used across the surveys including: - Multiple choice (single andswer and multiple answer) - Text entry - Side by side</p>
+<p>Some questions in the physical copy were formatted in a way that. For example, some questions had multiple sub-questions that were all part of the same question but had different formatting like text entry and multiple choice. In these cases, we did our best to use custom code to replicate these questions to the best we could (see <a href="###HTML/CSS/Javascript">HTML/CSS/Javascript</a>).</p>
+</section>
+<section id="aesthetics" class="level2">
+<h2 class="anchored" data-anchor-id="aesthetics">Aesthetics</h2>
+<p>Much of the customization features of the surveys were only accessible throught the paid tier of Qualtrics. We used these features to make the digital copy look as close as possible to the physical copy. This included editing the colors, styles, and layout of the surveys, as well as inserting images and using HTML/CSS/Javascript to format text and other features in ways that were not possible with just the rich content editor.</p>
+<section id="images" class="level3">
+<h3 class="anchored" data-anchor-id="images">Images</h3>
+<p>We placed images throughout the surveys including the <strong>cover page</strong> image and the <strong>end of survey</strong> image to replicate the hard copy version. We did this by downloading the hardcopy PDF of each survey and converting the pages into <em>JPG</em> files that were then inserted as a question into correct locations of the Qualtrics survey.</p>
+<p><em>NOTE: Qualtrics requires that you generaet a question when you want to insert and image. This is because images are considered a type of question in Qualtrics, so they must be inserted as a question even if they are not technically a question.</em></p>
+</section>
+<section id="htmlcssjavascript" class="level3">
+<h3 class="anchored" data-anchor-id="htmlcssjavascript">HTML/CSS/Javascript</h3>
+<p>Qualtrics gives you the ability to insert custom code into your surveys to modify the aesthetics and functionality beyond what is possible with the built in features. This included editing the <code>HTML</code>, <code>CSS</code>, and <code>Javascript</code> of the surveys allowed us to fine tune the aesthetics to the best we could.</p>
+<ul>
+<li><p><strong>HTML</strong>: HyperText Markup Language is the standard language for creating web pages and web applications. It is used to structure content on the web including text, images, links, and other elements. In Qualtrics, HTML can be used to format text, create tables, and insert images or other media into survey questions. It is the underlying skeleton of the survey.</p></li>
+<li><p><strong>CSS</strong>: Cascading Style Sheets is a stylesheet language used to describe the presentation and formatting of a document written in HTML. It is used to control the layout, colors, fonts, and other visual aspects of web pages. In Qualtrics, CSS can be used to customize the appearance of survey questions, change the layout of the survey, and modify other visual elements. It is the styling that is layerd on top of the HTML skeleton.</p></li>
+<li><p><strong>Javascript</strong>: Javascript is a language that is commonly used to create interactive effects within web browsers. It is used to add dynamic functionality to web pages, such as form validation and interactive features. In Qualtrics, Javascript can be used to create custom survey logic, validate user input, and add other interactive elements to the survey. We mostly used it to modify the behavior of certain elements in the survey to better replicate the physical copy.</p></li>
+</ul>
+<p>Custom coding the survey elements does require a more advanced understanding of web design and did take up considerable time. It is a trade off in how much time you are willing to spend and how exact you want the Qualtrics surveys to replicate the look of the physical copies. While Qualtrics does not provide any guidance on hot to write custom code for their surveys, there are some resources online that can help with this including their <a href="https://community.qualtrics.com/">Experience Community</a>.</p>
+<p>For the sake fo replication, I linked all custom code in external files hosted on GitHub which can be used to refer to in future survey years. This makes it easier to edit and maintain the code over time.</p>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -777,12 +819,15 @@ ul.task-list li input[type="checkbox"] {
     }
   });
   </script>
-<nav class="page-navigation column-page-right">
+<nav class="page-navigation">
   <div class="nav-page nav-page-previous">
+      <a href="../content/survey.html" class="pagination-link" aria-label="Survey Overview">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Survey Overview</span>
+      </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./content/qualtrics.html" class="pagination-link" aria-label="About Qualtrics">
-        <span class="nav-page-text">About Qualtrics</span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../content/survey-distributing.html" class="pagination-link" aria-label="Distributing the Survey">
+        <span class="nav-page-text">Distributing the Survey</span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
@@ -794,7 +839,7 @@ ul.task-list li input[type="checkbox"] {
 </div>   
     <div class="nav-footer-center">
       &nbsp;
-    <div class="toc-actions"><ul><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/edit/main/index.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/blob/main/index.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/edit/main/content/survey-building.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/blob/main/content/survey-building.qmd" class="toc-action"><i class="bi empty"></i>View source</a></li><li><a href="https://github.com/ramhunte/qualtrics-survey-guide/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></div>
     <div class="nav-footer-right">
 <p>This page is built with <a href="https://quarto.org/">Quarto</a>.</p>
 </div>
